@@ -2,8 +2,8 @@
 layout: default
 title: "HyungGeun Cho"
 main: true
-subtitle: Digital Product Designer Jihye Leee
-description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다.
+subtitle: SNU Student HyungGeun Cho
+description: HyungGeun Cho, SNU Student based in Seoul, South Korea. | '조형근' 서울대학교 학생입니다.
 ---
 <div class="intro-animation">
 <section class="explanation">
