@@ -2,6 +2,7 @@
 
 https://hyunggeun-cho.github.io
 
-It's forked from (chesterhow/tale)[https://github.com/chesterhow/tale].
 
 It's forked from (iamleejihye/customized)[https://github.com/iamleejihye/iamleejihye.github.io].
+
+It's originates from (chesterhow/tale)[https://github.com/chesterhow/tale].
