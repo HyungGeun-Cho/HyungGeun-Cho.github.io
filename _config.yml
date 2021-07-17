@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          HyungGeun Cho
 baseurl:        ""
-url:            "https://www.jihyeleee.com"
+url:            "https://hyunggeun-cho.github.io"
 
 # Assets
 sass:
@@ -16,11 +16,11 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          https://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      hitchhikerj
+  name:         HyungGeun Cho
+  url:          https://hyunggeun-cho.github.io
+  email:        chris1503@snu.ac.kr
+  github:       HyungGeun-Cho
+  twitter:      -
 
 # Custom vars
 version:        3.4.1
