@@ -14,9 +14,9 @@ section.explanation {
     
     h1.intro {
         font-family: $source, $san-serif;
-        font-size: 38px;
+        font-size: 35px;
         font-weight: bold;
-        line-height: 1.17;
+        line-height: 1.2; /*1.17*/
         margin: 0;
     
         @media (max-width: $break-small) {
@@ -30,10 +30,10 @@ section.explanation {
     }
     
     h2.intro {
-        font-size: 30px;
+        font-size: 28px;
         font-weight: 400;
         font-family: $san-serif;
-        line-height: 1.4;
+        line-height: 1.5; /*1.4*/
         word-wrap: normal;
         margin: 20px 0 0 0;
     
