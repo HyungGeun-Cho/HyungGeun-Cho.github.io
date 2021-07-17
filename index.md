@@ -10,9 +10,9 @@ description: HyungGeun Cho, SNU Student based in Seoul, South Korea. | '조형�
     <h1 class="intro">
     I'm HyungGeun Cho,
     </h1>
-    <h1 class="intro">SNU student studying cities and programming.
+    <h1 class="intro">Urban Data Beginner.
     </h1>
-    <h2 class="intro">도시와 데이터를 공부하는 조형근입니다.</h2>
+    <h2 class="intro">도시+코딩 어린이 조형근입니다.</h2>
 </section>
 </div>
 {% include resume.html %}
