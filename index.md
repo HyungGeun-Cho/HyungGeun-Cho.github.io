@@ -10,7 +10,7 @@ description: Jihye Leee, who is a Digital Product Designer based in Seoul, South
     <h1 class="intro">
     I'm HyungGeun Cho,
     </h1>
-    <h1 class="intro">SNU student studying coding and cities.
+    <h1 class="intro">SNU student studying cities and programming.
     </h1>
     <h2 class="intro">도시와 데이터를 공부하는 조형근입니다.</h2>
 </section>
